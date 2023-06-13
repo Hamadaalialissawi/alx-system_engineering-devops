@@ -1,2 +1,2 @@
 #!/bin/bash
-sort hamada | uniq -u 
+sort list | uniq -u 
