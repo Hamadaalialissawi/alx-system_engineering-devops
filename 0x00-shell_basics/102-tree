@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Ap | tr '\n' ',' | sed 's/,$/\n/'
+mkdir -p welcome/to/school
