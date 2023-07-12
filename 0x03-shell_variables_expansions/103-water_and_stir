@@ -1,1 +1,2 @@
 #!/bin/bash
+echo -n "$((echo "${WATER}" | tr "water" "bestchol" ) + (echo "${STIR}" | tr "stir" "bestchol" ))"
